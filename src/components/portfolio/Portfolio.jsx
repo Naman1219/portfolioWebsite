@@ -20,7 +20,7 @@ const data = [
     image: IMG2,
     title: 'Google Keeper Clone',
     github: 'https://github.com/Naman1219/Google-Keep-Clone',
-    demo: 'live-github-project'
+    demo: 'https://naman1219.github.io/Google-Keep-Clone/'
   },
   {
     id: 3,
@@ -47,8 +47,8 @@ const data = [
     id: 6,
     image: IMG6,
     title: 'New Project Coming Soon',
-    github: 'https://www.github.com',
-    demo: 'https://www.github.com'
+    github: 'https://www.github.com/Naman1219',
+    demo: 'https://www.github.com/Naman1219'
   },
 ]
 
