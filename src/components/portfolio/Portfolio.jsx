@@ -13,7 +13,7 @@ const data = [
     image: IMG1,
     title: 'MERN E-Commerce Web App',
     github: 'https://github.com/Naman1219/E-Commerce-Web-Application',
-    demo: 'https://namanecomm.netlify.app/signup'
+    demo: 'https://namanecomm.netlify.app/'
   },
   {
     id: 2,
@@ -46,7 +46,7 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    title: 'New Project Coming Soo ',
+    title: 'New Project Coming Soon',
     github: 'https://www.github.com',
     demo: 'https://www.github.com'
   },
