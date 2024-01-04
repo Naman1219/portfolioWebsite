@@ -8,9 +8,11 @@ import { ImFacebook2 } from 'react-icons/im';
 const Footer = () => {
   return (
     <footer>
+      {/* eslint-disable-next-line */}
       <a href='#' className="footer__logo">Naman Gupta</a>
 
       <ul className='permalinks'>
+        {/* eslint-disable-next-line */}
         <li><a href='#'>Home</a></li>
         <li><a href='#about'>About</a></li>
         <li><a href='#experience'>Experience</a></li>
